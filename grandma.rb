@@ -4,10 +4,10 @@ def speak_to_grandma(phrase)
     return "NO, NOT SINCE 1938!"
   elsif (phrase == "I LOVE YOU GRANDMA")
     return "I LOVE YOU TOO PUMPKIN!"
-  else 
+  else
     return "HUH?! SPEAK UP, SONNY!"
   end
-  
+
 
 # Write a speak_to_grandma method.
 
